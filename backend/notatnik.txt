@@ -1,2 +1,0 @@
-cd C:\Users\Mega\Desktop\NPZ\backend
-for /r %f in (*) do type "%f"

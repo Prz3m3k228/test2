@@ -1,4 +1,0 @@
-admin123@example.com
-SecurePass123!
-
-admin wyzej
